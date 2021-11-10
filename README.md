@@ -3,7 +3,7 @@
   Bem Vindo ao meu Github!! 😎👍
 </h1>
 <h3 align="center">
-  Sobre Mim
+  Sobre Mim 👀
 </h3>
 <div align="center">
 <p>🚀 Em busca de conhecimento</p>
