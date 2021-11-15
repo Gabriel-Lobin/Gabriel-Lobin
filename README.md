@@ -16,8 +16,8 @@
 </div>
 <!--stats-->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lobin&show_icons=true&include_all_commits=true&theme=graywhite"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=graywhite"/>-->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lobin&show_icons=true&include_all_commits=true&theme=graywhite"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=graywhite"/>
 </div>
 <!--stacks-->
 <h3 align="center">Conhecimentos 🎓</h3>
