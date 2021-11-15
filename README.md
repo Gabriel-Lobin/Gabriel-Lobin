@@ -8,7 +8,7 @@
 <div align="center">
 <p>🚀 Em busca de conhecimento</p>
 <p>👻 Estudante na Trybe turma 13b</p>
-<p>🤔 Estudando Docker</p>
+<p>🤔 Me atualizando em React</p>
 <p>⛩ Adoro a cultura japonesa</p>
 <p>🎶 Música</p>
 <p>🎼 Sou músico</p>
