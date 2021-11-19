@@ -10,16 +10,16 @@
       Sobre Mim 👀
     </h3>
     <div align="center">
-    <p>🚀 Em busca de conhecimento</p>
-    <p>👻 Estudante na Trybe turma 13b</p>
-    <p>🤔 Me atualizando em React</p>
-    <p>⛩ Adoro a cultura japonesa</p>
-    <p>🎶 Música</p>
-    <p>🎼 Sou músico</p>
-    <p>🎮 Amo jogos</p>
+      <p>🚀 Em busca de conhecimento</p>
+      <p>👻 Estudante na Trybe turma 13b</p>
+      <p>🤔 Me atualizando em React</p>
+      <p>⛩ Adoro a cultura japonesa</p>
+      <p>🎶 Música</p>
+      <p>🧑‍💻 Programação</p>
+      <p>🎮 jogos</p>
     </div>
   </section>
-  <hr>
+ <hr>
   <section>
     <!--stats-->
     <div align="center">
@@ -28,7 +28,7 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=graywhite"/>
     </div>
   </section>
-  <hr>
+ <hr>
   <section>
     <!--stacks-->
     <h3 align="center">Conhecimentos 🎓</h3>
@@ -61,7 +61,7 @@
       </div>
     </div>
   </section>
-  <hr>
+ <hr>
   <section>
   <!--links-->
   <h3 align="center">Contato 📞</h3>
