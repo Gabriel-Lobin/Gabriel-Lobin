@@ -11,7 +11,7 @@
     </h3>
     <div align="center">
       <p>🚀 Em busca de conhecimento</p>
-      <p>👻 Estudante na Trybe turma 13b</p>
+      <p>👻 Estudante na Trybe turma 13 C</p>
       <p>🤔 Me atualizando em React</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
