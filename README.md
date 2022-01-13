@@ -25,7 +25,7 @@
     <div align="center">
       <h3 align="center">Stats 📊 </h3>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lobin&show_icons=true&include_all_commits=true&theme=graywhite"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&layout=compact&theme=graywhite"/>      
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=graywhite&layout=compact"/>      
     </div>
   </section>
  <hr>
