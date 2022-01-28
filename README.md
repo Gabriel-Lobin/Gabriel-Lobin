@@ -12,7 +12,7 @@
     <div align="center">
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando NodeJS </p>
+      <p>🎓 Estudando SOLID e ORM</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
