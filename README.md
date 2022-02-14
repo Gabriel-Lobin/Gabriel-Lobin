@@ -91,7 +91,7 @@
       <img height="50em" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"></a>
 <!--     <a href="https://www.twitch.tv/lobinhoxd" target="_blank">
       <img height="50em" src="https://img.utdstc.com/icon/97d/da6/97dda66e6e0fe5b6f27b89e6e1a00f246bf82a92e4800300bb6a939cce00d1f7:200"></a> -->
-    <a href="https://www.instagram.com/gabs_suassuna/" target="_blank">
+    <a href="https://www.instagram.com/gsa_lobin/" target="_blank">
       <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"></a>
     <!-- <a href="http://api.whatsapp.com/send?phone=(telefone)" target="_blank">
       <img height="50em" src="https://www.gruporeporter.com.br/wp-content/uploads/2021/02/d9d97d48264770f85d35c208f279152c.png"></a> -->
