@@ -16,7 +16,8 @@
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
-      <p>🎮 jogos</p>
+      <p>🎮 jogos </p>
+      <p>🎧 Discord: Lobin#7281 </p>
     </div>
   </section>
  <hr>
