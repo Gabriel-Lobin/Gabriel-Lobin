@@ -86,6 +86,7 @@
   <section>
   <!--links-->
   <h3 align="center">Contato 📞</h3>
+    <h5>Recomendo usar Ctrl + click</h5>
   <div align="center">
     <a href="https://www.linkedin.com/in/gabrielsuassunaamorim/" target="_blank">
       <img height="50em" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"></a>
