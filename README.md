@@ -31,6 +31,7 @@
     <h3 align="center">
       Projetos Favoritos ✅
     </h3>
+    <h5>Recomendo usar Ctrl + click</h5>
     <a href= "https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
     <a href= "https://github.com/Gabriel-Lobin/trivia-react-redux">👾 Trivia</a>
   </section>
