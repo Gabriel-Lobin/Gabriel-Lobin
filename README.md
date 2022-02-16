@@ -10,16 +10,31 @@
       Sobre Mim 👀
     </h3>
     <div align="center">
+        <i> Meu nome é Gabriel Suassuna Amorim, tenho 26 anos e cresci colado em computadores. </i> 
+      <br>
+        <i> Estudo na Trybe desde Maio de 2021 e tenho aprendido bastante. </i> 
+      <br>
+      <br>
+    </div>
+    <div align="center">
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando Socket.io</p>
+      <p>🎓 Estudando FullStack</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
-      <p>🎮 jogos </p>      
+      <p>🎮 jogos</p>      
     </div>
   </section>
- <hr>
+    <hr>
+  <section align="center">
+    <h3 align="center">
+      Projetos Favoritos ✅
+    </h3>
+    <a href= "https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
+    <a href= "https://github.com/Gabriel-Lobin/trivia-react-redux">👾 Trivia</a>
+  </section>
+    <hr>
   <section>
     <!--stats-->
     <div align="center">
@@ -100,6 +115,7 @@
   </div>
   </section>
 </main>
+    <hr>
 
 
 
