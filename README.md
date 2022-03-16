@@ -19,7 +19,7 @@
     <div align="center">
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando FullStack</p>
+      <p>🎓 Estudando Python e TypeScript</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
@@ -75,6 +75,8 @@
       </div>
       <div>
         <h5> ⚙ Back-End ⚙ </h5>
+          <img height="70em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+          <img height="70em" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
           <img height="70em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
           <img height="70em" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
           <img height="70em" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
@@ -87,9 +89,7 @@
  <hr>
   <section>
     <h3 align="center">Aprender No Futuro 👨‍💻 </h3>
-     <div align="center">
-      <img height="70em" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-      <img height="70em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+     <div align="center">      
       <img height="70em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
       <img height="70em" alt="vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
       <img height="70em" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg"/>
