@@ -52,7 +52,7 @@
       <!--https://devicon.dev-->
       <div>
         <h5> 🖥 Sistema Operacional 🖥 </h5>
-          <img height="70em" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+          <img height="70em" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
           <img height="70em" alt="windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
       </div>  
       <div>  
@@ -104,7 +104,8 @@
  <hr>
   <section>
     <h3 align="center">Aprender No Futuro 👨‍💻 </h3>
-     <div align="center">      
+     <div align="center">
+      <img height="70em" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>
       <img height="70em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
       <img height="70em" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>          
       <img height="70em" alt="vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
