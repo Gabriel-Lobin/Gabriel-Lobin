@@ -66,7 +66,8 @@
         <h5> 🗂 Organização 🗂 </h5>                    
           <img height="70em" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>          
           <img height="70em" alt="slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
-          <img height="70em" alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>          
+          <img height="70em" alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+          <img height="70em" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg"/>
       </div>
        <div>
         <h5> 🧩 Linguagens de Programação 🧩 </h5>
