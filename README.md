@@ -112,7 +112,7 @@
       <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"></a>
     <!-- <a href="http://api.whatsapp.com/send?phone=(telefone)" target="_blank">
       <img height="50em" src="https://www.gruporeporter.com.br/wp-content/uploads/2021/02/d9d97d48264770f85d35c208f279152c.png"></a> -->
-    <h3>🎧 Discord: Lobin#7281</h3>
+    <h3>🎧 Discord: Lobin#1995</h3>
   </div>
   </section>
 </main>
