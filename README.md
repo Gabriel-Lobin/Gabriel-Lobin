@@ -20,6 +20,7 @@
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
       <p>🎓 Estudando Python e TypeScript</p>
+      <p>🎖️ Aceleração em JAVA</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
@@ -32,8 +33,15 @@
       Projetos Favoritos ✅
     </h3>
     <h5>Recomendo usar Ctrl + click</h5>
-    <a href= "https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
-    <a href= "https://github.com/Gabriel-Lobin/trivia-react-redux">👾 Trivia</a>
+       <div>
+        <a href="https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
+       </div>
+       <div>
+        <a href="https://github.com/Gabriel-Lobin/trivia-react-redux">👾 Trivia</a>
+       </div>
+       <div>
+        <a href="https://github.com/tryber/sd-013-c-project-delivery-app/tree/main-group-22">🛵 Delivery App </a>
+       </div>
   </section>
     <hr>
   <section>
