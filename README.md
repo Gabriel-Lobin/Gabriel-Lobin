@@ -77,6 +77,11 @@
           <img height="70em" alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
           <img height="70em" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg"/>
       </div>
+      <div>
+        <h5> 🔬 Ambiende de Desenvolvimento 🔬 </h5>
+          <img height="70em" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+          <img height="70em" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>        
+      </div>
        <div>
         <h5> 🧩 Linguagens de Programação 🧩 </h5>
           <img height="70em" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
