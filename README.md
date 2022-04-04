@@ -10,9 +10,15 @@
       Sobre Mim 👀
     </h3>
     <div align="center">
-        <i> Meu nome é Gabriel Suassuna Amorim, tenho 26 anos e cresci colado em computadores. </i> 
+        <i> Meu nome é Gabriel Suassuna Amorim, tenho 26 anos </i> 
       <br>
-        <i> Estudo na Trybe desde Maio de 2021 e tenho aprendido bastante. </i> 
+        <i> e desde criança, sempre fui vidrado em computadores. </i> 
+      <br>
+        <i> Em Maio de 2021 comecei a aprender o desenvolvimento web na Trybe. </i> 
+      <br>
+        <i> E atualmente, junto ao curso da Trybe, </i>      
+      <br>
+        <i> estou fazendo uma aceleração em JAVA da Trybe em parceria com a Ci&t. </i>
       <br>
       <br>
     </div>
