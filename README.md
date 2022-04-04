@@ -20,7 +20,7 @@
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
       <p>🎓 Estudando Python e TypeScript</p>
-      <p>🎖️ Aceleração em JAVA</p>
+      <p>🎖️ Aceleração em JAVA da Ci&t e Trybe</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
