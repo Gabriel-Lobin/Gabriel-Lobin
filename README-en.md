@@ -43,7 +43,7 @@
     <h3 align="center">
       Favorites Projects ✅
     </h3>
-    <h5>Advise to use Ctrl + click</h5>
+    <h5>I recommend to use Ctrl + click</h5>
        <div>
         <a href="https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
        </div>
