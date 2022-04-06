@@ -1,47 +1,47 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <header>
   <h1 align="center">
-    Bem Vindo ao meu Github!! 😎👍
+    Welcome to my Github!! 😎👍
   </h1>
-  <a href="https://github.com/Gabriel-Lobin/Gabriel-Lobin/blob/main/README-en.md">
-  <p>README in English</p>
+  <a href="https://github.com/Gabriel-Lobin/Gabriel-Lobin/blob/main/README.md">
+  <p>README em Português</p>
   </a>
 </header>
 <main>
   <section>
     <h3 align="center">
-      Sobre Mim 👀
+      About me 👀
     </h3>
     <div align="center">
-        <i> Meu nome é Gabriel Suassuna Amorim, tenho 26 anos </i> 
+        <i> My name is Gabriel Suassuna Amorim, I'm 26 years old </i> 
       <br>
-        <i> e desde criança, sempre fui vidrado em computadores. </i> 
+        <i> and since I was a kid, I've always been passionate about computers. </i> 
       <br>
-        <i> Em Maio de 2021 comecei a aprender o desenvolvimento web na Trybe. </i> 
+        <i> At may 2021, I started to learn web development at Trybe. </i> 
       <br>
-        <i> E atualmente, junto ao curso da Trybe, </i>      
+        <i> And actually, combined to Trybe course, </i>      
       <br>
-        <i> estou fazendo uma aceleração em JAVA da Trybe em parceria com a Ci&t. </i>
+        <i> I'm doing JAVA acceleration at Trybe in association with Ci&t. </i>
       <br>
       <br>
     </div>
     <div align="center">
-      <p>🚀 Em busca de conhecimento</p>
-      <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando Python e TypeScript</p>
-      <p>🎖️ Aceleração em JAVA da Ci&t e Trybe</p>
-      <p>⛩ Adoro a cultura japonesa</p>
-      <p>🎶 Música</p>
-      <p>🧑‍💻 Programação</p>
-      <p>🎮 jogos</p>      
+      <p>🚀 Looking for knowledge</p>
+      <p>👻 Student at Trybe class 13 C</p>
+      <p>🎓 Studying Python e TypeScript</p>
+      <p>🎖️ JAVA acceleration from Ci&t and Trybe</p>
+      <p>⛩ In love with japanese cuture</p>
+      <p>🎶 Music</p>
+      <p>🧑‍💻 Programming</p>
+      <p>🎮 Games</p>      
     </div>
   </section>
     <hr>
   <section align="center">
     <h3 align="center">
-      Projetos Favoritos ✅
+      Favorites Projects ✅
     </h3>
-    <h5>Recomendo usar Ctrl + click</h5>
+    <h5>Advise to use Ctrl + click</h5>
        <div>
         <a href="https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
        </div>
@@ -64,35 +64,35 @@
  <hr>
   <section>
     <!--stacks-->
-    <h3 align="center">Conhecimentos 🎓</h3>
+    <h3 align="center">Knowledges 🎓</h3>
     <div align="center">
       <!--https://devicon.dev-->
       <div>
-        <h5> 🖥 Sistema Operacional 🖥 </h5>
+        <h5> 🖥 Operational System 🖥 </h5>
           <img height="70em" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
           <img height="70em" alt="windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
       </div>  
       <div>  
-        <h5> 💻 Gerenciamento 💻 </h5>
+        <h5> 💻 Management 💻 </h5>
           <img height="70em" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
           <img height="70em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>          
           <img height="70em" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
           <img height="70em" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
       </div>
        <div>  
-        <h5> 🗂 Organização 🗂 </h5>                    
+        <h5> 🗂 Organize 🗂 </h5>                    
           <img height="70em" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>          
           <img height="70em" alt="slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
           <img height="70em" alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
           <img height="70em" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg"/>
       </div>
       <div>
-        <h5> 🔬 Ambiende de Desenvolvimento 🔬 </h5>
+        <h5> 🔬 Development Environment 🔬 </h5>
           <img height="70em" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
           <img height="70em" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>        
       </div>
        <div>
-        <h5> 🧩 Linguagens de Programação 🧩 </h5>
+        <h5> 🧩 Programming Languages 🧩 </h5>
           <img height="70em" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
           <img height="70em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
           <img height="70em" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
@@ -118,7 +118,7 @@
           <img height="70em" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>          
       </div>
        <div>  
-        <h5> 🛡 Testes 🛡 </h5>
+        <h5> 🛡 Tests 🛡 </h5>
           <img height="70em" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
           <img height="70em" alt="mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
           <img height="70em" alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg"/>        
@@ -127,7 +127,7 @@
   </section>
  <hr>
   <section>
-    <h3 align="center">Aprender No Futuro 👨‍💻 </h3>
+    <h3 align="center">To Learn in the Future 👨‍💻 </h3>
      <div align="center">
       <img height="70em" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>      
       <img height="70em" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>         
@@ -146,8 +146,8 @@
  <hr>
   <section>
   <!--links-->
-  <h3 align="center">Contato 📞</h3>
-    <h5>Recomendo usar Ctrl + click</h5>
+  <h3 align="center">Contacts 📞</h3>
+    <h5>I recommend to use Ctrl + click</h5>
   <div align="center">
     <a href="https://www.linkedin.com/in/gabrielsuassunaamorim/" target="_blank">
       <img height="50em" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png"></a>
@@ -162,7 +162,3 @@
   </section>
 </main>
     <hr>
-
-
-
-
