@@ -3,9 +3,11 @@
   <h1 align="center">
     Bem Vindo ao meu Github!! 😎👍
   </h1>
-  <a href="https://github.com/Gabriel-Lobin/Gabriel-Lobin/blob/main/README-en.md">
-  <p>README in English</p>
-  </a>
+  <div align="center">
+    <a href="https://github.com/Gabriel-Lobin/Gabriel-Lobin/blob/main/README-en.md">
+      <p>README in English</p>
+    </a>
+  </div>
 </header>
 <main>
   <section>
