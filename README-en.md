@@ -4,7 +4,7 @@
     Welcome to my Github!! 😎👍
   </h1>
   <div align="center">
-    <a href="https://github.com/Gabriel-Lobin/Gabriel-Lobin/blob/main/README.md">
+    <a href="https://github.com/Gabriel-Lobin">
       <p>README em Português</p>
     </a>
   </div>
