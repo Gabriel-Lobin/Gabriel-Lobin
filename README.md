@@ -30,7 +30,7 @@
     <div align="center">
       <p>🚀 Em busca de conhecimento</p>
       <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando Python e TypeScript</p>
+      <p>🎓 Estudando JAVA</p>
       <p>🎖️ Aceleração em JAVA da Ci&t e Trybe</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
@@ -80,6 +80,7 @@
           <img height="70em" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>          
           <img height="70em" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
           <img height="70em" alt="gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg"/>
+          <img height="30em" alt="maven" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png"/>       
           <img height="70em" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
       </div>
        <div>  
@@ -124,7 +125,8 @@
         <h5> 🛡 Testes 🛡 </h5>
           <img height="70em" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
           <img height="70em" alt="mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
-          <img height="70em" alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg"/>        
+          <img height="70em" alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg"/> 
+          <img height="70em" alt="junit" src="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png"/>
       </div>
     </div>
   </section>
