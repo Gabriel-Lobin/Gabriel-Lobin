@@ -112,15 +112,22 @@
       </div>
       <div>
         <h5> ⚙ Back-End ⚙ </h5>
-          <img height="70em" alt="socketio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"/>          
-          <img height="70em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>        
-          <img height="70em" alt="sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>          
-          <img height="70em" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+          <img height="70em" alt="socketio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"/>             
+          <img height="70em" alt="sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>         
           <img height="70em" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
           <img height="70em" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>          
           <img height="70em" alt="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>          
           <img height="70em" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>          
+          <img height="70em" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg"/>
+          <img height="70em" alt="quarkus" src="https://litslink.com/wp-content/uploads/2021/09/quarkus_logo_vertical_rgb_default-1.svg"/>
+          <img height="70em" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line-wordmark.svg" />
       </div>
+      <div>
+        <h5> 🗃 DataBase 🗃 </h5>
+          <img height="70em" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+          <img height="70em" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+       </div>
+       <div>
        <div>  
         <h5> 🛡 Tests 🛡 </h5>
           <img height="70em" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
@@ -145,7 +152,8 @@
       <img height="70em" alt=".net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
       <img height="70em" alt="discordjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original-wordmark.svg"/>
       <img height="70em" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
-      <img height="70em" alt="unreal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"/>          
+      <img height="70em" alt="unreal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"/>
+      <img height="70em" alt="clojure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg"/>
     <div/>
   <section/>
  <hr>
