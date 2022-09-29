@@ -15,7 +15,7 @@
       Sobre Mim 👀
     </h3>
     <div align="center">
-        <i> Meu nome é Gabriel Suassuna Amorim, tenho 26 anos </i> 
+        <i> Meu nome é Gabriel Suassuna Amorim, tenho 27 anos </i> 
       <br>
         <i> e desde criança, sempre fui vidrado em computadores. </i> 
       <br>
