@@ -15,7 +15,7 @@
       About me 👀
     </h3>
     <div align="center">
-        <i> My name is Gabriel Suassuna Amorim, I'm 26 years old </i> 
+        <i> My name is Gabriel Suassuna Amorim, I'm 27 years old </i> 
       <br>
         <i> and since I was a kid, I've always been passionate about computers. </i> 
       <br>
