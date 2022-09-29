@@ -138,6 +138,8 @@
       <img height="70em" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
       <img height="70em" alt="unreal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"/>
       <img height="70em" alt="clojure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg"/>
+      <img height="70em" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+      <img height="70em" alt="nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
     <div/>
   <section/>
  <hr>
