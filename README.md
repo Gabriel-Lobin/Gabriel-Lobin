@@ -29,31 +29,15 @@
     </div>
     <div align="center">
       <p>🚀 Em busca de conhecimento</p>
-      <p>👻 Estudante na Trybe turma 13 C</p>
-      <p>🎓 Estudando JAVA</p>
+      <p>👻 Estudante na Trybe turma 13 C</p>      
       <p>🎖️ Aceleração em JAVA da Ci&t e Trybe</p>
       <p>⛩ Adoro a cultura japonesa</p>
       <p>🎶 Música</p>
       <p>🧑‍💻 Programação</p>
       <p>🎮 jogos</p>      
+      <p>🎓 Estudando C#</p>
     </div>
-  </section>
-    <hr>
-  <section align="center">
-    <h3 align="center">
-      Projetos Favoritos ✅
-    </h3>
-    <h5>Recomendo usar Ctrl + click</h5>
-       <div>
-        <a href="https://github.com/Gabriel-Lobin/zoo-functions">🦄 Zoo Functions</a>
-       </div>
-       <div>
-        <a href="https://github.com/Gabriel-Lobin/trivia-react-redux">👾 Trivia</a>
-       </div>
-       <div>
-        <a href="https://github.com/tryber/sd-013-c-project-delivery-app/tree/main-group-22">🛵 Delivery App </a>
-       </div>
-  </section>
+  </section>  
     <hr>
   <section>
     <!--stats-->
@@ -93,7 +77,8 @@
       <div>
         <h5> 🔬 Ambiende de Desenvolvimento 🔬 </h5>
           <img height="70em" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-          <img height="70em" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>        
+          <img height="70em" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/>
+          <img height="70em" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
       </div>
        <div>
         <h5> 🧩 Linguagens de Programação 🧩 </h5>
@@ -101,6 +86,7 @@
           <img height="70em" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
           <img height="70em" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
           <img height="70em" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+          <img height="70em" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
       </div>
       <div>
         <h5> 🎨 Front-End 🎨 </h5>
@@ -120,7 +106,8 @@
           <img height="70em" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
           <img height="70em" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg"/>
           <img height="70em" alt="quarkus" src="https://litslink.com/wp-content/uploads/2021/09/quarkus_logo_vertical_rgb_default-1.svg"/>
-          <img height="70em" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line-wordmark.svg" />
+          <img height="70em" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line-wordmark.svg"/>
+          <img height="70em" alt=".net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
       </div>
       <div>
         <h5> 🗃 Bancos de Dados 🗃 </h5>
@@ -144,11 +131,9 @@
       <img height="70em" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>         
       <img height="70em" alt="vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
       <img height="70em" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg"/>
-      <img height="70em" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-      <img height="70em" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
+      <img height="70em" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>      
       <img height="70em" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-      <img height="70em" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-      <img height="70em" alt=".net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+      <img height="70em" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>      
       <img height="70em" alt="discordjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original-wordmark.svg"/>
       <img height="70em" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
       <img height="70em" alt="unreal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"/>
