@@ -35,7 +35,7 @@
       <p>🎶 Music</p>
       <p>🧑‍💻 Programming</p>
       <p>🎮 Games</p>      
-      <p>🎓 Studying C#</p>
+      <p>🎓 Studing C#</p>
     </div>
   </section> 
     <hr>
