@@ -42,7 +42,7 @@
   <section>
     <!--stats-->
     <div align="center">
-      <h3 align="center">Stats 📊 </h3>
+      <h3 align="center">Status 📊 </h3>
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lobin&show_icons=true&include_all_commits=true&theme=dark"/>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=dark&langs_count=10&layout=compact"/>
     </div>
