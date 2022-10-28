@@ -43,6 +43,7 @@
     <!--stats-->
     <div align="center">
       <h3 align="center">Status 📊 </h3>
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Gabriel-Lobin&theme=xcode">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Lobin&show_icons=true&include_all_commits=true&theme=dark"/>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Lobin&theme=dark&langs_count=10&layout=compact"/>
     </div>
