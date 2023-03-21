@@ -32,10 +32,10 @@
       <p>👻 Student at Trybe class 13 C</p>      
       <p>🎖️ JAVA acceleration from Ci&t and Trybe</p>
       <p>⛩ In love with japanese cuture</p>
-      <p>🎶 Music</p>
-      <p>🧑‍💻 Programming</p>
-      <p>🎮 Games</p>      
-      <p>🎓 Studing C#</p>
+      <p>🎶 musician</p>
+      <p>🧑‍💻 Love Programming</p>
+      <p>🎮 My leisure is games</p>      
+      <p>🎓 Working with C#</p>    
     </div>
   </section> 
     <hr>
