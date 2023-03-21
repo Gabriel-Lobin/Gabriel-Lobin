@@ -110,6 +110,8 @@
           <img height="70em" alt="quarkus" src="https://litslink.com/wp-content/uploads/2021/09/quarkus_logo_vertical_rgb_default-1.svg"/>
           <img height="70em" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-line-wordmark.svg"/>
           <img height="70em" alt=".net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+          <img height="70em" alt="servicebus" src="https://static-00.iconduck.com/assets.00/service-bus-queues-icon-443x512-g4d186cu.png"/>
+          <img height="70em" alt="k8s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
       </div>
       <div>
         <h5> 🗃 Bancos de Dados 🗃 </h5>
