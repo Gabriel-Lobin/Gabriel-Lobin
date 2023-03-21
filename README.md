@@ -32,10 +32,10 @@
       <p>👻 Estudante na Trybe turma 13 C</p>      
       <p>🎖️ Aceleração em JAVA da Ci&t e Trybe</p>
       <p>⛩ Adoro a cultura japonesa</p>
-      <p>🎶 Música</p>
-      <p>🧑‍💻 Programação</p>
-      <p>🎮 jogos</p>      
-      <p>🎓 Estudando C#</p>
+      <p>🎶 Músico</p>
+      <p>🧑‍💻 Amo Programação</p>
+      <p>🎮 Meu laser são os jogos</p>      
+      <p>🎓 Trabalhando com C#</p>
     </div>
   </section>  
     <hr>
